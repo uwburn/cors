@@ -1,5 +1,5 @@
 {
-  "name": "cors-express",
+  "name": "cors-express2",
   "version": "1.0.0",
   "main": "cors.js",
   "description": "Express middleware to enable cross origin resource sharing on a route",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url" : "https://github.com/uwburn/cors-express.git"
+    "url" : "https://github.com/uwburn/cors-express2.git"
   },
   "license": "LGPL-3.0"
 }
